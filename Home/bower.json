@@ -1,0 +1,11 @@
+{
+  "name": "node chat applicationls",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "bowser": "x.x.x",
+    "bootstrap": "x.x.x",
+    "font-awesome": "x.x.x",
+    "angular": "x.x.x"
+  }
+}

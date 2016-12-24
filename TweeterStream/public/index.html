@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" ng-app="tweetStream">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TweetFeed</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" type="text/css">
+</head>
+<style>
+  .message-input, .message-input .inline-label, .menu-bar {margin-bottom: 0;}
+  #sidebar, .messages {border-right: 1px solid #eee;}
+  .message-side-bar {border-left: 1px solid #eee;}
+  .avatar-section {border-top: 1px solid #eee;}
+  h1 {margin: auto; width: 50%; font-variant: small-caps; font-size: 60px;}
+  input#tag {width: 30%; height: 40px; position: relative; left: 20px; font-size: 25px;}
+  button {position: relative; left: 50px;}
+
+</style>
+<body ng-controller="tweetController as tweet" style="background-color: black;">
+  <section>
+    <h1 style="color: white;">Start A Feed!</h1>
+    <p style="color: white;">
+      Enter a hashtag and <b>START FEED</b> to get live tweets from Twitter
+    </p>
+    <input ng-model="tweet.tag" type="text" id="tag">
+    <p></p>
+    <button class="btn btn-success" id="start" ng-click="tweet.tweetGetter()">START FEED</button>
+  </div>
+  <p> </p>
+  <p> </p>
+  <p> </p>
+</section>
+<table class="table table-striped" style="position: relative; left: 25px; width: 95%;">
+  <tbody class="table table-striped" ng-repeat="eachTweet in tweet.tweets track by $index">
+    <tr>
+      <td style="word-wrap: normal;">{{eachTweet.text}}</td>
+      <td>
+        {{eachTweet.created_at}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <section>
+
+  </section>
+  <script src='libs/jquery/dist/jquery.min.js'></script>
+  <script src='libs/angular/angular.min.js'></script>
+  <script src='libs/bootstrap/dist/js/bootstrap.min.js'></script>
+  <script src='assets/js/app.js'></script>
+</body>
+</html>

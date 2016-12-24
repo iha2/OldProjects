@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en" ng-app="chatapp">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>iha2Chat</title>
+  <link href="assets/css/app.css" rel="stylesheet" type="text/css">
+</head>
+<style>
+  .message-input, .message-input .inline-label, .menu-bar {margin-bottom: 0;}
+  #sidebar, .messages {border-right: 1px solid #eee;}
+  .message-side-bar {border-left: 1px solid #eee;}
+  .avatar-section {border-top: 1px solid #eee;}
+</style>
+<body>
+
+    <script src='libs/jquery/dist/jquery.min.js'></script>
+    <script src='libs/angular/angular.min.js'></script>
+    <script src='libs/angular-cookies/angular-cookies.min.js'></script>
+    <script src='libs/bootstrap/dist/js/bootstrap.min.js'></script>
+    <script src='/socket.io/socket.io.js'></script>
+    <script src='libs/angular-socket-io/socket.min.js'></script>
+  <div class="grid-frame">
+    <div zf-panel position="left" id="sidebar" class="medium-grid-block collapse medium-3 large-3 vertical">
+      <div class="grid-content collapse shrink hide-for-medium">
+        <a href="" class="secondary button expand" zf-close>Close</a>
+      </div>
+      <div class="grid-content collapse shrink">
+        <img src="http://placehold.it/400x150&text=Logo">
+      </div>
+      <div class="grid-content" id="display" ng-controller="registerCtrl as reg">
+
+        <form id="register" class="grid content collapse shrink">
+          <input id="name" type="text" placeholder="Name" ng-model='reg.user'>
+          <button ng-click="reg.submit()">Enter</button>
+
+        </form>
+
+
+        <section id="chatters" class="block-list">
+          <header>Chatters</header>
+          <ul>
+            <li ng-repeat="user in reg.userdata.get() track by $index">
+              <a href="#" ng-style="{ 'color': user.color }">
+                <b>{{user.user}}</b>
+              </a>
+            </li>
+          </ul>
+        </section>
+      </div>
+    </div>
+
+    <div class="grid-block collapse medium-9 large-9 vertical">
+      <div class="grid-block">
+        <div ng-controller="messageCtrl as msg" class="grid-block vertical">
+          <div class="grid-content">
+            <ul id="messages">
+              <section style="word-wrap: break-word" ng-repeat="value in messages track by $index">
+                <h4 ng-style ="{ float: 'right', color: value.color }">{{value.user}}</h4>
+                <p>{{value.message}}</p>
+                <hr />  
+              </section>
+              
+            </ul>
+          </div>
+          <div>
+            <form class="message-input grid-content collapse shrink" action="">
+              <div class="form-group">
+                <div class="inline-label">
+                  <input type='text' id="m" class="form-control" autocomplete="off" placeholder="your message" />
+                  <span class="input-group-btn">
+                    <button class="btn btn-default" ng-click= "msg.submit()">Send</button>
+                  </span>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src='assets/js/message.ctrl.js'></script>
+    <script src='assets/js/register.ctrl.js'></script>
+    <script src='assets/js/socket.fact.js'></script>
+    <script src='assets/js/userdata.fact.js'></script>
+    <script src='assets/js/app.js'></script>
+
+  </div>
+</body>
+</html>
+
+<!-- ui-view  -->

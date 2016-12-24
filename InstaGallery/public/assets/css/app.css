@@ -1,0 +1,102 @@
+
+
+body {
+    background:                 no-repeat center center fixed; 
+    -webkit-background-size:    cover;
+    -moz-background-size:       cover;
+    -o-background-size:         cover;
+    background-size:            cover;
+    height:                     100%;
+    width:                      100%;
+}
+
+#header {
+    text-align: center;
+}
+
+#searchbox {
+    padding:    25px;
+    position:   absolute;
+    top:        5%;
+    left:       5%;
+
+    width:      90%;
+    height:     87%;
+
+    margin-left:    auto;
+    margin-right:   auto;
+}
+
+#results {
+    width:      100%;
+    height:     30%;
+}
+
+#search {
+    padding:            25px;
+    background-color:   black;
+    height:             30%;
+    width:              100%;
+}
+
+form {
+    position:       relative;
+    top:            -18px;
+    height:         100%;
+    width:          50%;
+    margin-left:    auto;
+    margin-right:   auto;
+    
+}
+
+#searchbar {
+    width: 80%;
+    float: left;
+}
+
+#tag_results {
+    height:             70%;
+    width:              100%;
+    overflow:           hidden;
+}
+
+#tag_results ul li {
+    list-style-type:    none;
+    display:            inline-block;
+    padding-right:      20px;
+    float:              left;
+}
+
+#display {
+    background-color:   black;
+    width:              100%;
+    height:             70%;
+}
+
+#display ul {
+    position:       relative;
+    top:            10px;
+    width:          100%;
+    height:         90%;
+    margin-left:    auto;
+    margin-right:   auto;
+}
+
+#display ul li {
+    float:          left;
+    width:          19%;
+    height:         52%;
+    list-style-type: none;
+    background-color: white;
+    margin:         1px; 
+}
+
+#display ul li img{
+    position:           relative;
+    width:              100%;
+    height:             100%;
+    background-position:50% 50%;
+    background-repeat:  no-repeat;
+    background-size:    cover;
+    padding:            2px;
+}

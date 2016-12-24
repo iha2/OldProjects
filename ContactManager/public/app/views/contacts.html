@@ -1,0 +1,86 @@
+<div id="Contacts" style="overflow-y: scroll; height: 400px;">
+  {{#each contacts}}
+  <div class="cntct-contacts">
+    <div class="display">
+      <h4><span>{{firstname}}</span><span> </span><span>{{lastname}}</span></h4>
+    </div>
+    <div class="cntct-details"  style="display: none;">
+      <ul class="cntct-info list-group">
+        <input type="" name="" class="_id" value="{{_id}}" style="display: none;">
+        {{#if firstname}}
+        <li class="cntct-data cntct-name list-group-item">
+          <label>{{firstname}}</label>
+          <div class="input-group" style="display:none;">
+            <input type="text" class="firstname form-control" name="firstname" placeholder="firstname" aria-describedby="basic-addon1" value="{{firstname}}">
+          </div>
+        </li>
+        {{/if}}
+        {{#if lastname}}
+        <li class="cntct-data cntct-name list-group-item">
+          <label>{{lastname}}</label>
+          <div class="input-group" style="display:none;">
+            <input type="text" class="lastname form-control" placeholder="lastname" aria-describedby="basic-addon1" value="{{lastname}}">
+          </div>
+        </li>
+        {{/if}}
+        {{#if phone}}
+        <li class="cntct-data cntct-phone list-group-item">
+          <label>{{phone}}</label>
+          <div class="input-group" style="display:none;">
+            <input type="text" class="phone form-control" placeholder="phone" aria-describedby="basic-addon1" value="{{phone}}">
+          </div>
+        </li>
+        {{/if}}
+        {{#if email}}
+        <li class="cntct-data cntct-email list-group-item">
+          <label>{{email}}</label>
+          <div class="input-group" style="display:none;">
+            <input type="text" class="email form-control" placeholder="email" aria-describedby="basic-addon1" value="{{email}}">
+          </div>
+        </li>
+        {{/if}}
+        {{#if address}}
+        <li class="cntct-data cntct-address list-group-item">
+          <label>{{address}}</label>
+          <div class="input-group" style="display:none;">
+            <input type="text" class="address form-control" placeholder="address" aria-describedby="basic-addon1" value="{{address}}">
+          </div>
+        </li>
+        {{/if}}
+        {{#if company}}
+        <li class="cntct-data cntct-address list-group-item">
+          <label>{{company}}</label>
+          <div class="input-group" style="display:none;">
+            <input type="text" class="company form-control" placeholder="company" aria-describedby="basic-addon1" value="{{company}}">
+          </div>
+        </li>
+        {{/if}}
+        {{#if job-title}}
+        <li class="cntct-data cntct-address list-group-item">
+          <label>{{job-title}}</label>
+          <div class="input-group" style="display:none;">
+            <input type="text" class="job-title form-control" placeholder="job-title" aria-describedby="basic-addon1" value="{{job-title}}">
+          </div>
+        </li>
+        {{/if}}
+        <li>
+          <div class="cntct-categories">
+            <span class="cntct-type cntct-friend col-md-4"><input type="checkbox" name="friend" value="friend" {{checked}}>  Friend</span>
+            <span class="cntct-type cntct-family col-md-4"><input type="checkbox" name="family" value="family" {{checked}}>  Family</span>
+            <span class="cntct-type cntct-colleague col-md-4"><input type="checkbox" name="colleague" value="colleague" {{checked}}>  Colleague</span>
+          </div>
+        </li>
+      </ul>
+      <div class="cntct-events">
+        <button class="submit-edit btn btn-primary col-md-6">Save Edit</button>
+        <button class="open-remove-option btn btn-danger col-md-6">Remove</button>
+      </div>
+      <div class="remove-contacts-confirm" style="display: none;">
+        <p>Are you sure you want to remove this contact?</p>
+        <button class="submit-erase btn btn-default">Yes</button>
+        <button class="ignore-erase btn btn-danger">No</button>
+      </div>
+    </div>
+  </div>
+  {{/each}}
+</div>

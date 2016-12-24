@@ -1,0 +1,8 @@
+{
+  "name": "iheatu-wogus-home-page",
+  "version": "0.0.1",
+  "description": "personal home page",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}

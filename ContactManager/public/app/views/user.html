@@ -1,0 +1,58 @@
+
+<h3 class="cntct-user">{{user.firstname}} {{user.lastname}}</h3>
+<nav>
+  <div class="search input-group">
+    <span class="input-group-addon" id="basic-addon1">search</span>
+    <input type="text" class="form-control" value="{{searchSubstring}}" name="search" placeholder="" aria-describedby="basic-addon1">
+    <span class="btn-success cntct-add-contact input-group-addon" >  + </span>
+  </div>
+</nav>
+<span class="tooltip">
+  <ul>
+    <li>{{user.email}}</li>
+    <li>{{user.phonenumber}}</li>
+    <li>{{user.phonenumber}}</li>
+  </ul>
+</span>
+
+<div id="AddContact" style="display: none;">
+  <div class="input-group">
+    <span class="input-group-addon" id="basic-addon1">+</span>
+    <input type="text" class="firstname form-control" placeholder="firstname" aria-describedby="basic-addon1">
+  </div>
+  <div class="input-group">
+    <span class="input-group-addon" id="basic-addon1">+</span>
+    <input type="text" class="lastname form-control" placeholder="lastname" aria-describedby="basic-addon1">
+  </div>
+  <div class="input-group">
+    <span class="input-group-addon" id="basic-addon1">+</span>
+    <input type="number" class="phonenumber form-control" placeholder="phone" aria-describedby="basic-addon1">
+  </div>
+  <div class="input-group">
+    <span class="input-group-addon" id="basic-addon1">+</span>
+    <input type="text" class="email form-control" placeholder="email" aria-describedby="basic-addon1">
+  </div>
+  <div class="input-group">
+    <span class="input-group-addon" id="basic-addon1">+</span>
+    <input type="text" class="address form-control" placeholder="address" aria-describedby="basic-addon1">
+  </div>
+  <div class="input-group">
+    <span class="input-group-addon" id="basic-addon1">+</span>
+    <input type="text" class="company form-control" placeholder="company" aria-describedby="basic-addon1">
+  </div>
+  <div class="input-group">
+    <span class="input-group-addon" id="basic-addon1">+</span>
+    <input type="text" class="job-title form-control" placeholder="job-title" aria-describedby="basic-addon1">
+  </div>
+  <div>
+    <span class=".cntct-friend input-group-addon"><input type="checkbox" name="friend" value="friend" {{checked}}>Friend</span>
+    <span class=".cntct-friend input-group-addon"><input type="checkbox" name="friend" value="friend" {{checked}}>Family</span>
+    <span class=".cntct-friend input-group-addon"><input type="checkbox" name="friend" value="friend" {{checked}}>Colleague</span>
+  </div>
+  <button class="submit btn-default btn-lg">Submit</button>
+</div>
+
+<!--  CONTACT INFROMATION AND ACTIONS -->
+<div class="contacts-container">  
+</div>
+

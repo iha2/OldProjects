@@ -1,0 +1,18 @@
+{
+  "name": "instagallery",
+  "version": "0.1.0",
+  "description": "Frontend Dev Challenge",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twitsprout/instagallery"
+  },
+  "author": "CrowdRiff",
+  "license": "None",
+  "private": true,
+  "dependencies": {
+    "express": "^4.12.4",
+    "request": "~2.58.0",
+    "instagram-node": "~0.5.7"
+  }
+}

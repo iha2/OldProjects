@@ -1,0 +1,25 @@
+{
+  "name": "Contact-Manager",
+  "description": "A widget that saves and managers contacts for users.",
+  "main": "contactManger.html",
+  "authors": [
+    "iheatudeveloper@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "contacts",
+    "widget"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars": "~4.0.5"
+  }
+}

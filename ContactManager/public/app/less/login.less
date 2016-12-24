@@ -1,0 +1,192 @@
+
+h1 {
+    margin: 10px;
+    padding: 30px 0px;
+    width: 300px;
+    font-family: "Impact", Charcoal, sans-serif;
+}
+
+.tooltip {
+    display: none;
+}
+#AddContact {
+
+    .submit {
+        display: block;
+        margin: 10px auto;
+        padding: 10px;
+    }
+}
+
+#ContactManager {
+
+    margin: 10px;
+    width: 300px;
+    height: 400px;
+
+    .search {
+        width: 100%;
+    }
+    .cntct-user {
+        width: 100%;
+        font-size: 30px;
+        padding: 25px;
+        margin: 0px;
+        font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    }
+
+    input[type=number]::-webkit-inner-spin-button, 
+    input[type=number]::-webkit-outer-spin-button { 
+        -webkit-appearance: none; 
+        margin: 0; 
+    }
+    
+    #submit {
+        margin-top: 7px;
+        margin-bottom: 7px;
+        width: 49%;
+    }
+
+    #sign-up {
+        margin-top: 7px;
+        margin-bottom: 7px;
+        width: 49%;
+    }
+
+    .error {
+        margin: 1px;
+        color: red;
+    }
+
+    .button-container {
+
+        width: 100%;
+        
+        #sign-up-submit {
+            margin-left: 25%;
+            margin-right: 25%;
+            margin-top: 5%;
+            margin-bottom: 5%;
+
+        }
+
+        #sign-up-login {
+            margin-left: 30%;
+            margin-right: 27%;
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+    }
+
+
+    #Contacts {
+
+        nav {
+            height: 60px;
+
+            .cntct-user {
+                width: 100%;
+                margin: 19px 0px;
+            }
+
+            .cntnt-add-contact {
+                padding: 0px 15px;
+                font-size: 27px;
+                position: relative;
+                top: -11px;
+                font-size: 20px;
+                width: 20%;
+                display: inline;
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+        }
+        
+        .cntct-contacts {
+            margin: 5px 0px;
+            overflow-y: auto;
+           
+            .display h4 {
+                color: #479DD7; background:black;
+                -o-transition:color .2s ease-out, background 1s ease-in;
+                -ms-transition:color .2s ease-out, background 1s ease-in;
+                -moz-transition:color .2s ease-out, background 1s ease-in;
+                -webkit-transition:color .2s ease-out, background 1s ease-in;
+                /* ...and now override with proper CSS property */
+                transition:color .2s ease-out, background 1s ease-in;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 15px;
+                border-radius: 5px;
+                margin: 0px;
+
+                &:hover { color:black; background:white; }
+            }
+
+            ul {
+                margin-bottom: 10px;
+                
+                .cntct-type {
+                    margin: 0px;
+                    padding: 3px;
+                }
+
+                .cntct-data {
+
+                    label {
+                        width: 100%;
+                        display: block;
+                        margin: auto;
+                        text-align: center;
+
+                        .input-group {
+                            margin: auto;
+                        }
+                    }
+
+                    .input-group {
+                        width: 100%;
+                    }
+                }
+
+                .cntct-categories {
+                    height: 30px;
+                }
+            }
+            
+
+            .cntct-events {
+                height:60px;
+                width: 100%;
+
+                button {
+                    padding: 3px 0px;
+                }
+            }
+
+            .remove-contacts-confirm {
+                
+                margin: 5px 0px;
+
+                p {
+                    font-weight: bold;
+                    font-size: 12.5px;
+                    padding: 5px 0px;
+                }
+            }
+
+
+        } 
+
+        .contct-categories {
+            margin: 5px 0px;
+            overflow-y: auto;
+
+            .contct-type {
+             font-size: 15px;
+             padding: 0px;
+             margin: 0px;
+         }
+     }
+ }
+}

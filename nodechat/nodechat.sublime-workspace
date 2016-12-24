@@ -1,0 +1,1218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_list"
+			],
+			[
+				"get",
+				"getWithColor"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"message",
+				"messagelist"
+			],
+			[
+				"new",
+				"newValue〔argument〕"
+			],
+			[
+				"messag",
+				"messagelist"
+			],
+			[
+				"cu",
+				"current_tree〔argument〕"
+			],
+			[
+				"br",
+				"branches"
+			],
+			[
+				"exp",
+				"exp_obj〔variable〕"
+			],
+			[
+				"result",
+				"result_tree〔variable〕"
+			],
+			[
+				"ba",
+				"branches"
+			],
+			[
+				"evaluate",
+				"evaluate_tree〔function〕"
+			],
+			[
+				"resul",
+				"result_tree〔variable〕"
+			],
+			[
+				"to",
+				"to_be_calculated〔variable〕"
+			],
+			[
+				"cha",
+				"characters"
+			],
+			[
+				"char",
+				"characters"
+			],
+			[
+				"c",
+				"current_tree"
+			],
+			[
+				"expre",
+				"expression[:1"
+			],
+			[
+				"trr",
+				"tree_elements〔argument〕"
+			],
+			[
+				"tree",
+				"tree_elements〔argument〕"
+			],
+			[
+				"comp",
+				"compute〔function〕"
+			],
+			[
+				"hold_",
+				"hold_value"
+			],
+			[
+				"hold",
+				"hold_value〔variable〕"
+			],
+			[
+				"ex",
+				"expression〔argument〕"
+			],
+			[
+				"sub_ex",
+				"sub_exp_pos"
+			],
+			[
+				"ge",
+				"getAreasOfSizeK"
+			],
+			[
+				"num",
+				"num_of_buildings"
+			],
+			[
+				"maximum",
+				"maximumRectArea"
+			],
+			[
+				"area",
+				"areasOfKtoN"
+			],
+			[
+				"getArea",
+				"getAreasOfSizeK"
+			],
+			[
+				"root",
+				"rootCapedFactorList"
+			],
+			[
+				"number",
+				"number_location_found〔variable〕"
+			],
+			[
+				"se",
+				"second_and_third_diff"
+			],
+			[
+				"ar",
+				"ar_list〔variable〕"
+			],
+			[
+				"f",
+				"floor〔function〕"
+			],
+			[
+				"ap",
+				"ap_list"
+			],
+			[
+				"missing",
+				"missing_value〔variable〕"
+			],
+			[
+				"fi",
+				"filter〔function〕"
+			],
+			[
+				"old",
+				"old_difference〔variable〕"
+			],
+			[
+				"boost",
+				"bootstrap"
+			],
+			[
+				"p",
+				"pseudo"
+			],
+			[
+				"s",
+				"socket"
+			],
+			[
+				"triple",
+				"triple_test"
+			],
+			[
+				"trip",
+				"triplet"
+			],
+			[
+				"pah",
+				"pathagoryan_triple"
+			],
+			[
+				"ele",
+				"eliminate_zeros"
+			],
+			[
+				"el",
+				"eliminate_zeros"
+			],
+			[
+				"test",
+				"test_hash〔variable〕"
+			],
+			[
+				"from",
+				"from_custom_flatRate"
+			],
+			[
+				"asser",
+				"assert_raise"
+			],
+			[
+				"Arg",
+				"ArgumentError〔class〕"
+			],
+			[
+				"markup",
+				"markups_categories"
+			],
+			[
+				"calc",
+				"calculate_markups"
+			],
+			[
+				"flat",
+				"flatrate_markup"
+			],
+			[
+				"wroker",
+				"workerExtra"
+			],
+			[
+				"wor",
+				"workerExtra"
+			],
+			[
+				"ass",
+				"assert_equal"
+			],
+			[
+				"for",
+				"forv	Vector For Loop"
+			],
+			[
+				"path",
+				"path_triple_tester"
+			],
+			[
+				"pat",
+				"path_triple_tester"
+			],
+			[
+				"level",
+				"level_head"
+			],
+			[
+				"flip",
+				"flip_tail"
+			],
+			[
+				"level_",
+				"level_head"
+			],
+			[
+				"le",
+				"level_elements"
+			],
+			[
+				"sum_c",
+				"sum_capped_tripple"
+			],
+			[
+				"su",
+				"sum_capped_tripple"
+			],
+			[
+				"genrate",
+				"generate_primes"
+			],
+			[
+				"ma",
+				"maximum"
+			],
+			[
+				"prie",
+				"prime_value"
+			],
+			[
+				"div",
+				"div_by_list"
+			],
+			[
+				"max",
+				"max_factor"
+			],
+			[
+				"all_mid_",
+				"all_mid_values"
+			],
+			[
+				"possi",
+				"possible_least_equal"
+			],
+			[
+				"most",
+				"most_and_least"
+			],
+			[
+				"all",
+				"all_non_dups"
+			],
+			[
+				"in",
+				"in_all_pos"
+			],
+			[
+				"pop",
+				"pop_head"
+			],
+			[
+				"create",
+				"create_spaced_num"
+			],
+			[
+				"creat",
+				"create_space"
+			],
+			[
+				"crea",
+				"create_space"
+			],
+			[
+				"zero",
+				"zero_list"
+			],
+			[
+				"bes",
+				"best_comp_time"
+			],
+			[
+				"b",
+				"best_list"
+			],
+			[
+				"best",
+				"best_list"
+			],
+			[
+				"print",
+				"printer"
+			],
+			[
+				"NU",
+				"NUMBER_FOR_AVERAGE"
+			],
+			[
+				"pr",
+				"printer"
+			],
+			[
+				"insertion",
+				"insertionsort"
+			],
+			[
+				"arr",
+				"arr_size-1"
+			],
+			[
+				"worst",
+				"worst_populate"
+			],
+			[
+				"begin",
+				"begin_time"
+			],
+			[
+				"clo",
+				"clock_t"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"PR",
+				"printf"
+			],
+			[
+				"shuffl",
+				"shuffled"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/assets/js/client.js",
+			"settings":
+			{
+				"buffer_size": 3181,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 773,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/sockets.js",
+			"settings":
+			{
+				"buffer_size": 1146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 3980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "bash: no job control in this shell\nbash-3.2$ ls\nREADME.md\nbower.json\nconfig\niha2homepage.sublime-workspace\nnode_modules\nnodechat.sublime-project\nnodechat.sublime-workspace\nnpm-debug.log\npackage.json\npublic\nserver.js\nbash-3.2$ nodemon server.js\n4 Jul 02:14:10 - [nodemon] v1.3.7\n4 Jul 02:14:10 - [nodemon] to restart at any time, enter `rs`\n4 Jul 02:14:10 - [nodemon] watching: *.*\n4 Jul 02:14:10 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 02:15:20 - [nodemon] restarting due to changes...\n4 Jul 02:15:20 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#E6DD81' } ]\n4 Jul 02:16:24 - [nodemon] restarting due to changes...\n4 Jul 02:16:24 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#0D7602' } ]\nmessage: [object Object]\nmessage: [object Object]\nmessage: [object Object]\na user connected \nVictor\n[ { user: 'Ada', color: '#0D7602' },\n  { user: 'Victor', color: '#D4EFA5' } ]\nmessage: [object Object]\n4 Jul 02:18:33 - [nodemon] restarting due to changes...\n4 Jul 02:18:33 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:23:12 - [nodemon] restarting due to changes...\n4 Jul 02:23:12 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:24:04 - [nodemon] restarting due to changes...\n4 Jul 02:24:04 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:24:40 - [nodemon] restarting due to changes...\n4 Jul 02:24:40 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:24:57 - [nodemon] restarting due to changes...\n4 Jul 02:24:57 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nuser disconnected\na user connected \nasdfasf\n[ { user: 'asdfasf', color: '#D7DA34' } ]\n4 Jul 02:25:48 - [nodemon] restarting due to changes...\n4 Jul 02:25:48 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#BD9A7E' } ]\nmessage: [object Object]\nuser disconnected\na user connected \nVictor\n[ { user: 'Ada', color: '#BD9A7E' },\n  { user: 'Victor', color: '#CEB17F' } ]\nmessage: [object Object]\n4 Jul 02:27:42 - [nodemon] restarting due to changes...\n4 Jul 02:27:42 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nAda\n[ { user: 'Ada', color: '#990E0B' } ]\nmessage: [object Object]\n4 Jul 02:28:24 - [nodemon] restarting due to changes...\n4 Jul 02:28:24 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nAda\n[ { user: 'Ada', color: '#9165B5' } ]\n4 Jul 02:30:08 - [nodemon] restarting due to changes...\n4 Jul 02:30:08 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nAda\n[ { user: 'Ada', color: '#66742E' } ]\n4 Jul 02:30:57 - [nodemon] restarting due to changes...\n4 Jul 02:30:57 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#112D5D' } ]\n4 Jul 02:31:44 - [nodemon] restarting due to changes...\n4 Jul 02:31:44 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:31:50 - [nodemon] restarting due to changes...\n4 Jul 02:31:50 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#C281D8' } ]\n4 Jul 02:33:05 - [nodemon] restarting due to changes...\n4 Jul 02:33:05 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 02:33:13 - [nodemon] restarting due to changes...\n4 Jul 02:33:13 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:36:40 - [nodemon] restarting due to changes...\n4 Jul 02:36:40 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \n4 Jul 02:36:52 - [nodemon] restarting due to changes...\n4 Jul 02:36:52 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nAda\n[ { user: 'Ada', color: '#10CCBF' } ]\n4 Jul 02:38:58 - [nodemon] restarting due to changes...\n4 Jul 02:38:58 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#ABE78D' } ]\n4 Jul 02:39:30 - [nodemon] restarting due to changes...\n4 Jul 02:39:30 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:39:40 - [nodemon] restarting due to changes...\n4 Jul 02:39:40 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \na user connected \nAda\n[ { user: 'Ada', color: '#163DA4' } ]\n4 Jul 02:40:09 - [nodemon] restarting due to changes...\n4 Jul 02:40:09 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nAda\n[ { user: 'Ada', color: '#D07977' } ]\n4 Jul 02:40:26 - [nodemon] restarting due to changes...\n4 Jul 02:40:26 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:40:29 - [nodemon] restarting due to changes...\n4 Jul 02:40:29 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:41:36 - [nodemon] restarting due to changes...\n4 Jul 02:41:36 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#C9683C' } ]\n4 Jul 02:41:51 - [nodemon] restarting due to changes...\n4 Jul 02:41:51 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:41:55 - [nodemon] restarting due to changes...\n4 Jul 02:41:55 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \naDA\n[ { user: 'aDA', color: '#4915E2' } ]\n4 Jul 02:42:13 - [nodemon] restarting due to changes...\n4 Jul 02:42:13 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#C0A3B8' } ]\n4 Jul 02:42:52 - [nodemon] restarting due to changes...\n4 Jul 02:42:52 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:43:12 - [nodemon] restarting due to changes...\n4 Jul 02:43:12 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:43:59 - [nodemon] restarting due to changes...\n4 Jul 02:43:59 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:48:57 - [nodemon] restarting due to changes...\n4 Jul 02:48:57 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:49:07 - [nodemon] restarting due to changes...\n4 Jul 02:49:08 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:49:15 - [nodemon] restarting due to changes...\n4 Jul 02:49:15 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:49:43 - [nodemon] restarting due to changes...\n4 Jul 02:49:43 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 02:49:50 - [nodemon] restarting due to changes...\n4 Jul 02:49:50 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:03:08 - [nodemon] restarting due to changes...\n4 Jul 03:03:08 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:21\nvar = module.exports = app;\n    ^\nSyntaxError: Unexpected token =\n    at Module._compile (module.js:439:25)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 03:03:08 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 03:07:02 - [nodemon] restarting due to changes...\n4 Jul 03:07:02 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:09:33 - [nodemon] restarting due to changes...\n4 Jul 03:09:33 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \n4 Jul 03:09:54 - [nodemon] restarting due to changes...\n4 Jul 03:09:54 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \n4 Jul 03:12:58 - [nodemon] restarting due to changes...\n4 Jul 03:12:58 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:13:04 - [nodemon] restarting due to changes...\n4 Jul 03:13:04 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#3C3AC4' } ]\n4 Jul 03:13:19 - [nodemon] restarting due to changes...\n4 Jul 03:13:19 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:13:28 - [nodemon] restarting due to changes...\n4 Jul 03:13:28 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#4AB2C2' } ]\nmessage: [object Object]\n4 Jul 03:16:53 - [nodemon] restarting due to changes...\n4 Jul 03:16:53 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:17:07 - [nodemon] restarting due to changes...\n4 Jul 03:17:07 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:17:54 - [nodemon] restarting due to changes...\n4 Jul 03:17:54 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \n4 Jul 03:38:01 - [nodemon] restarting due to changes...\n4 Jul 03:38:01 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:41:02 - [nodemon] restarting due to changes...\n4 Jul 03:41:02 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:42:38 - [nodemon] restarting due to changes...\n4 Jul 03:42:38 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:42:44 - [nodemon] restarting due to changes...\n4 Jul 03:42:44 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:42:54 - [nodemon] restarting due to changes...\n4 Jul 03:42:54 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:43:13 - [nodemon] restarting due to changes...\n4 Jul 03:43:13 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nAda\n[ { user: 'Ada', color: '#D0609D' } ]\n4 Jul 03:44:18 - [nodemon] restarting due to changes...\n4 Jul 03:44:18 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#B23938' } ]\nmessage: [object Object]\nmessage: [object Object]\nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#B23938' },\n  { user: 'Ada', color: '#25D8C7' } ]\n4 Jul 03:47:34 - [nodemon] restarting due to changes...\n4 Jul 03:47:34 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:47:52 - [nodemon] restarting due to changes...\n4 Jul 03:47:52 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:49:08 - [nodemon] restarting due to changes...\n4 Jul 03:49:08 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:49:10 - [nodemon] restarting due to changes...\n4 Jul 03:49:10 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:26\n/\n^\nSyntaxError: Invalid regular expression: missing /\n    at Module._compile (module.js:439:25)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 03:49:11 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 03:49:14 - [nodemon] restarting due to changes...\n4 Jul 03:49:14 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#2ADAD6' } ]\n4 Jul 03:57:04 - [nodemon] restarting due to changes...\n4 Jul 03:57:04 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#52AC19' } ]\n4 Jul 03:57:20 - [nodemon] restarting due to changes...\n4 Jul 03:57:20 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 03:57:25 - [nodemon] restarting due to changes...\n4 Jul 03:57:25 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#59FCE7' } ]\n4 Jul 04:00:46 - [nodemon] restarting due to changes...\n4 Jul 04:00:46 - [nodemon] starting `node server.js`\n\nmodule.js:340\n    throw err;\n          ^\nError: Cannot find module './app/routes'\n    at Function.Module._resolveFilename (module.js:338:15)\n    at Function.Module._load (module.js:280:25)\n    at Module.require (module.js:364:17)\n    at require (module.js:380:17)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:27:1)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n4 Jul 04:00:47 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:01:17 - [nodemon] restarting due to changes...\n4 Jul 04:01:17 - [nodemon] starting `node server.js`\n\nmodule.js:340\n    throw err;\n          ^\nError: Cannot find module './app/routes'\n    at Function.Module._resolveFilename (module.js:338:15)\n    at Function.Module._load (module.js:280:25)\n    at Module.require (module.js:364:17)\n    at require (module.js:380:17)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:27:1)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n4 Jul 04:01:17 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:02:07 - [nodemon] restarting due to changes...\n4 Jul 04:02:07 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 04:02:26 - [nodemon] restarting due to changes...\n4 Jul 04:02:26 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:02:52 - [nodemon] restarting due to changes...\n4 Jul 04:02:52 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:03:31 - [nodemon] restarting due to changes...\n4 Jul 04:03:31 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:03:44 - [nodemon] restarting due to changes...\n4 Jul 04:03:44 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:04:02 - [nodemon] restarting due to changes...\n4 Jul 04:04:02 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:04:10 - [nodemon] restarting due to changes...\n4 Jul 04:04:10 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:04:17 - [nodemon] restarting due to changes...\n4 Jul 04:04:17 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:04:28 - [nodemon] restarting due to changes...\n4 Jul 04:04:28 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:04:31 - [nodemon] restarting due to changes...\n4 Jul 04:04:31 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:04:37 - [nodemon] restarting due to changes...\n4 Jul 04:04:37 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:04:38 - [nodemon] restarting due to changes...\n4 Jul 04:04:38 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:04:48 - [nodemon] restarting due to changes...\n4 Jul 04:04:48 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:1\nquire, module, __filename, __dirname) { module.exports = function(app, io, ) {\n                                                                           ^\nSyntaxError: Unexpected token )\n    at Module._compile (module.js:439:25)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Module.require (module.js:364:17)\n    at require (module.js:380:17)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:23:1)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n4 Jul 04:04:48 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:05:01 - [nodemon] restarting due to changes...\n4 Jul 04:05:01 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:9\n    io.on('connection', function(socket) {\n       ^\nTypeError: Cannot call method 'on' of undefined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:9:8)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:23:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:05:01 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:05:58 - [nodemon] restarting due to changes...\n4 Jul 04:05:58 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:9\n    io.on('connection', function(socket) {\n       ^\nTypeError: Cannot call method 'on' of undefined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:9:8)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:23:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:05:59 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:06:29 - [nodemon] restarting due to changes...\n4 Jul 04:06:29 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:06:34 - [nodemon] restarting due to changes...\n4 Jul 04:06:34 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:07:07 - [nodemon] restarting due to changes...\n4 Jul 04:07:07 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:13\n io.use(sharedsession(session));\n ^\nReferenceError: io is not defined\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:13:2)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:07:07 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:07:39 - [nodemon] restarting due to changes...\n4 Jul 04:07:39 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:14\n io.use(sharedsession(session));\n ^\nReferenceError: io is not defined\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:14:2)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:07:39 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:08:34 - [nodemon] restarting due to changes...\n4 Jul 04:08:34 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:14\n io.use(sharedsession(session));\n ^\nReferenceError: io is not defined\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:14:2)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:08:35 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:11:58 - [nodemon] restarting due to changes...\n4 Jul 04:11:58 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:7\n    io.use(sharedsession(session));\n                         ^\nReferenceError: session is not defined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:7:26)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:21:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:11:58 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:12:27 - [nodemon] restarting due to changes...\n4 Jul 04:12:27 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:6\n    io.use(sharedsession(session));\n                         ^\nReferenceError: session is not defined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:6:26)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:21:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:12:28 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:12:58 - [nodemon] restarting due to changes...\n4 Jul 04:12:58 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:6\n    io.use(sharedsession(session));\n                         ^\nReferenceError: session is not defined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:6:26)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:21:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:12:58 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:13:43 - [nodemon] restarting due to changes...\n4 Jul 04:13:43 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:15:45 - [nodemon] restarting due to changes...\n4 Jul 04:15:45 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:16:00 - [nodemon] restarting due to changes...\n4 Jul 04:16:00 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:10\n app.use(session);\n         ^\nReferenceError: session is not defined\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:10:10)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:16:00 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:16:23 - [nodemon] restarting due to changes...\n4 Jul 04:16:23 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:10\n app.use(session);\n         ^\nReferenceError: session is not defined\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:10:10)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:16:23 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:16:28 - [nodemon] restarting due to changes...\n4 Jul 04:16:28 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:17:49 - [nodemon] restarting due to changes...\n4 Jul 04:17:49 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:19:24 - [nodemon] restarting due to changes...\n4 Jul 04:19:24 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:19:57 - [nodemon] restarting due to changes...\n4 Jul 04:19:57 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:20:19 - [nodemon] restarting due to changes...\n4 Jul 04:20:19 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 04:22:58 - [nodemon] restarting due to changes...\n4 Jul 04:22:58 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:6\n    io.use(sharedsession(exports.session));\n    ^\nReferenceError: io is not defined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:6:5)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:20:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:22:59 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:23:13 - [nodemon] restarting due to changes...\n4 Jul 04:23:13 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:6\n    io.use(sharedsession(exports.session));\n    ^\nReferenceError: io is not defined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:6:5)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:21:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:23:13 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:23:56 - [nodemon] restarting due to changes...\n4 Jul 04:23:56 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:6\n    io.use(sharedsession(exports.session));\n    ^\nReferenceError: io is not defined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:6:5)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:21:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:23:56 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:24:00 - [nodemon] restarting due to changes...\n4 Jul 04:24:00 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:6\n    io.use(sharedsession(exports.session));\n    ^\nReferenceError: io is not defined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:6:5)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:21:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:24:00 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:24:42 - [nodemon] restarting due to changes...\n4 Jul 04:24:42 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:6\n    io.use(sharedsession(exports.session));\n    ^\nReferenceError: io is not defined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:6:5)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:21:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:24:42 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:24:53 - [nodemon] restarting due to changes...\n4 Jul 04:24:53 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/app/sockets.js:6\n    exports.io.use(sharedsession(exports.session));\n               ^\nTypeError: Cannot call method 'use' of undefined\n    at module.exports (/Users/iha2/Sites/nodechat/app/sockets.js:6:16)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:21:25)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 04:24:53 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 04:26:51 - [nodemon] restarting due to changes...\n4 Jul 04:26:51 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 04:27:05 - [nodemon] restarting due to changes...\n4 Jul 04:27:05 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nada\n[ { user: 'ada', color: '#38B14C' } ]\nReferenceError: messages is not defined\n    at /Users/iha2/Sites/nodechat/app/routes.js:9:18\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:100:13)\n    at Route.dispatch (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:81:3)\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:235:24\n    at Function.proto.process_params (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:313:12)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:229:12\n    at Function.match_layer (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:296:3)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:190:10)\n4 Jul 04:42:41 - [nodemon] restarting due to changes...\n4 Jul 04:42:41 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#A0956E' } ]\nReferenceError: messages is not defined\n    at /Users/iha2/Sites/nodechat/app/routes.js:9:18\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:100:13)\n    at Route.dispatch (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:81:3)\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:235:24\n    at Function.proto.process_params (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:313:12)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:229:12\n    at Function.match_layer (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:296:3)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:190:10)\nuser disconnected\na user connected \nuser disconnected\na user connected \nuser disconnected\nAda\n[ { user: 'Ada', color: '#A0956E' },\n  { user: 'Ada', color: '#634D74' } ]\nReferenceError: messages is not defined\n    at /Users/iha2/Sites/nodechat/app/routes.js:9:18\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:100:13)\n    at Route.dispatch (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:81:3)\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:235:24\n    at Function.proto.process_params (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:313:12)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:229:12\n    at Function.match_layer (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:296:3)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:190:10)\nuser disconnected\na user connected \n4 Jul 13:25:41 - [nodemon] restarting due to changes...\n4 Jul 13:25:41 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \niha2\n[ { user: 'iha2', color: '#E193BA' } ]\nReferenceError: messages is not defined\n    at /Users/iha2/Sites/nodechat/app/routes.js:9:18\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:100:13)\n    at Route.dispatch (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:81:3)\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:235:24\n    at Function.proto.process_params (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:313:12)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:229:12\n    at Function.match_layer (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:296:3)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:190:10)\n4 Jul 13:26:19 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \niha2\n[ { user: 'iha2', color: '#5CDDC9' } ]\nReferenceError: messages is not defined\n    at /Users/iha2/Sites/nodechat/app/routes.js:9:18\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:100:13)\n    at Route.dispatch (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/route.js:81:3)\n    at Layer.handle [as handle_request] (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/layer.js:82:5)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:235:24\n    at Function.proto.process_params (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:313:12)\n    at /Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:229:12\n    at Function.match_layer (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:296:3)\n    at next (/Users/iha2/Sites/nodechat/node_modules/express/lib/router/index.js:190:10)\n4 Jul 13:34:44 - [nodemon] restarting due to changes...\n4 Jul 13:34:44 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nIheatu\n[ { user: 'Iheatu', color: '#E7ADEA' } ]\n4 Jul 13:39:24 - [nodemon] restarting due to changes...\n4 Jul 13:39:24 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 13:40:03 - [nodemon] restarting due to changes...\n4 Jul 13:40:03 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 13:41:33 - [nodemon] restarting due to changes...\n4 Jul 13:41:33 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 13:41:48 - [nodemon] restarting due to changes...\n4 Jul 13:41:48 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 13:41:59 - [nodemon] restarting due to changes...\n4 Jul 13:41:59 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:11\n app.use(session);\n         ^\nReferenceError: session is not defined\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:11:10)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 13:41:59 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 13:43:22 - [nodemon] restarting due to changes...\n4 Jul 13:43:22 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:26\nio.on('connection', function(socket) {\n^\nReferenceError: io is not defined\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:26:1)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 13:43:22 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 13:43:40 - [nodemon] restarting due to changes...\n4 Jul 13:43:40 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:26\nio.on('connection', function(socket) {\n^\nReferenceError: io is not defined\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:26:1)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 13:43:41 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 13:43:48 - [nodemon] restarting due to changes...\n4 Jul 13:43:48 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 13:44:15 - [nodemon] restarting due to changes...\n4 Jul 13:44:15 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 13:44:28 - [nodemon] restarting due to changes...\n4 Jul 13:44:28 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 13:44:52 - [nodemon] restarting due to changes...\n4 Jul 13:44:52 - [nodemon] starting `node server.js`\n\nmodule.js:340\n    throw err;\n          ^\nError: Cannot find module './app/sockets'\n    at Function.Module._resolveFilename (module.js:338:15)\n    at Function.Module._load (module.js:280:25)\n    at Module.require (module.js:364:17)\n    at require (module.js:380:17)\n    at module.exports (/Users/iha2/Sites/nodechat/app/routes.js:4:18)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:23:24)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n4 Jul 13:44:53 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 13:45:09 - [nodemon] restarting due to changes...\n4 Jul 13:45:09 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 13:45:21 - [nodemon] restarting due to changes...\n4 Jul 13:45:21 - [nodemon] starting `node server.js`\n\nmodule.js:340\n    throw err;\n          ^\nError: Cannot find module 'sockets'\n    at Function.Module._resolveFilename (module.js:338:15)\n    at Function.Module._load (module.js:280:25)\n    at Module.require (module.js:364:17)\n    at require (module.js:380:17)\n    at module.exports (/Users/iha2/Sites/nodechat/app/routes.js:4:18)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:23:24)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n4 Jul 13:45:21 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 13:45:25 - [nodemon] restarting due to changes...\n4 Jul 13:45:25 - [nodemon] starting `node server.js`\n\nmodule.js:340\n    throw err;\n          ^\nError: Cannot find module './app/sockets'\n    at Function.Module._resolveFilename (module.js:338:15)\n    at Function.Module._load (module.js:280:25)\n    at Module.require (module.js:364:17)\n    at require (module.js:380:17)\n    at module.exports (/Users/iha2/Sites/nodechat/app/routes.js:4:18)\n    at Object.<anonymous> (/Users/iha2/Sites/nodechat/server.js:23:24)\n    at Module._compile (module.js:456:26)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n4 Jul 13:45:25 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 13:45:32 - [nodemon] restarting due to changes...\n4 Jul 13:45:32 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 13:52:26 - [nodemon] restarting due to changes...\n4 Jul 13:52:26 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 13:52:46 - [nodemon] restarting due to changes...\n4 Jul 13:52:46 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nAda\n[ { user: 'Ada', color: '#4D0710' } ]\n4 Jul 13:53:48 - [nodemon] restarting due to changes...\n4 Jul 13:53:48 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nada\n[ { user: 'ada', color: '#6EF64C' } ]\n4 Jul 13:59:31 - [nodemon] restarting due to changes...\n4 Jul 13:59:31 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#0F233F' } ]\n4 Jul 13:59:51 - [nodemon] restarting due to changes...\n4 Jul 13:59:51 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:00:34 - [nodemon] restarting due to changes...\n4 Jul 14:00:34 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:00:36 - [nodemon] restarting due to changes...\n4 Jul 14:00:36 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:41\n});\n^\nSyntaxError: Unexpected token }\n    at Module._compile (module.js:439:25)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 14:00:36 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 14:02:31 - [nodemon] restarting due to changes...\n4 Jul 14:02:31 - [nodemon] starting `node server.js`\n4 Jul 14:02:31 - [nodemon] restarting due to changes...\n4 Jul 14:02:31 - [nodemon] starting `node server.js`\n\n/Users/iha2/Sites/nodechat/server.js:41\n});\n^\nSyntaxError: Unexpected token }\n    at Module._compile (module.js:439:25)\n    at Object.Module._extensions..js (module.js:474:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    at Function.Module.runMain (module.js:497:10)\n    at startup (node.js:119:16)\n    at node.js:906:3\n4 Jul 14:02:31 - [nodemon] app crashed - waiting for file changes before starting...\n4 Jul 14:02:34 - [nodemon] restarting due to changes...\n4 Jul 14:02:34 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nAda\nMissing error handler on `socket`.\nReferenceError: users is not defined\n    at Socket.<anonymous> (/Users/iha2/Sites/nodechat/app/sockets.js:15:13)\n    at Socket.emit (events.js:95:17)\n    at Socket.onevent (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/socket.js:330:8)\n    at Socket.onpacket (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/socket.js:290:12)\n    at Client.ondecoded (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/client.js:193:14)\n    at Decoder.Emitter.emit (/Users/iha2/Sites/nodechat/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)\n    at Decoder.add (/Users/iha2/Sites/nodechat/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)\n    at Client.ondata (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/client.js:175:18)\n    at Socket.emit (events.js:95:17)\n    at Socket.onPacket (/Users/iha2/Sites/nodechat/node_modules/socket.io/node_modules/engine.io/lib/socket.js:99:14)\nuser disconnected\n4 Jul 14:03:16 - [nodemon] restarting due to changes...\n4 Jul 14:03:16 - [nodemon] restarting due to changes...\n4 Jul 14:03:16 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:09:02 - [nodemon] restarting due to changes...\n4 Jul 14:09:02 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:09:08 - [nodemon] restarting due to changes...\n4 Jul 14:09:08 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:09:29 - [nodemon] restarting due to changes...\n4 Jul 14:09:29 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:09:48 - [nodemon] restarting due to changes...\n4 Jul 14:09:48 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nAda\nMissing error handler on `socket`.\nReferenceError: users is not defined\n    at Socket.<anonymous> (/Users/iha2/Sites/nodechat/app/sockets.js:16:13)\n    at Socket.emit (events.js:95:17)\n    at Socket.onevent (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/socket.js:330:8)\n    at Socket.onpacket (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/socket.js:290:12)\n    at Client.ondecoded (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/client.js:193:14)\n    at Decoder.Emitter.emit (/Users/iha2/Sites/nodechat/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)\n    at Decoder.add (/Users/iha2/Sites/nodechat/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)\n    at Client.ondata (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/client.js:175:18)\n    at Socket.emit (events.js:95:17)\n    at Socket.onPacket (/Users/iha2/Sites/nodechat/node_modules/socket.io/node_modules/engine.io/lib/socket.js:99:14)\nuser disconnected\n4 Jul 14:10:14 - [nodemon] restarting due to changes...\n4 Jul 14:10:14 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:10:32 - [nodemon] restarting due to changes...\n4 Jul 14:10:32 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:10:54 - [nodemon] restarting due to changes...\n4 Jul 14:10:54 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:11:09 - [nodemon] restarting due to changes...\n4 Jul 14:11:09 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 14:11:11 - [nodemon] restarting due to changes...\n4 Jul 14:11:11 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nAda\nMissing error handler on `socket`.\nReferenceError: getRandomColor is not defined\n    at Socket.<anonymous> (/Users/iha2/Sites/nodechat/app/sockets.js:18:24)\n    at Socket.emit (events.js:95:17)\n    at Socket.onevent (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/socket.js:330:8)\n    at Socket.onpacket (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/socket.js:290:12)\n    at Client.ondecoded (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/client.js:193:14)\n    at Decoder.Emitter.emit (/Users/iha2/Sites/nodechat/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)\n    at Decoder.add (/Users/iha2/Sites/nodechat/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)\n    at Client.ondata (/Users/iha2/Sites/nodechat/node_modules/socket.io/lib/client.js:175:18)\n    at Socket.emit (events.js:95:17)\n    at Socket.onPacket (/Users/iha2/Sites/nodechat/node_modules/socket.io/node_modules/engine.io/lib/socket.js:99:14)\nuser disconnected\n4 Jul 14:11:48 - [nodemon] restarting due to changes...\n4 Jul 14:11:48 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#1CBA86' } ]\nmessage: [object Object]\nmessage: [object Object]\n4 Jul 14:15:19 - [nodemon] restarting due to changes...\n4 Jul 14:15:19 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nada\n[ { user: 'ada', color: '#A21369' } ]\nmessage: [object Object]\n4 Jul 14:19:26 - [nodemon] restarting due to changes...\n4 Jul 14:19:26 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 14:19:28 - [nodemon] restarting due to changes...\n4 Jul 14:19:28 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#746AE5' } ]\nmessage: [object Object]\nmessage: [object Object]\na user connected \nVictor\n[ { user: 'Ada', color: '#746AE5' },\n  { user: 'Victor', color: '#611313' } ]\nuser disconnected\na user connected \nmessage: [object Object]\n4 Jul 14:24:40 - [nodemon] restarting due to changes...\n4 Jul 14:24:40 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nVictor\n[ { user: 'Victor', color: '#9E259B' } ]\nmessage: [object Object]\nmessage: [object Object]\nAda\n[ { user: 'Victor', color: '#9E259B' },\n  { user: 'Ada', color: '#3DBC2F' } ]\nuser disconnected\na user connected \nMandator\n[ { user: 'Victor', color: '#9E259B' },\n  { user: 'Ada', color: '#3DBC2F' },\n  { user: 'Mandator', color: '#A4E9ED' } ]\nuser disconnected\na user connected \n4 Jul 14:26:54 - [nodemon] restarting due to changes...\n4 Jul 14:26:54 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nmessage: [object Object]\n4 Jul 14:27:47 - [nodemon] restarting due to changes...\n4 Jul 14:27:47 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 14:28:04 - [nodemon] restarting due to changes...\n4 Jul 14:28:04 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n[ { user: 'Ada', color: '#26EFB6' } ]\nmessage: [object Object]\nVictor\n[ { user: 'Ada', color: '#26EFB6' },\n  { user: 'Victor', color: '#5AC44C' } ]\nmessage: [object Object]\n4 Jul 14:29:54 - [nodemon] restarting due to changes...\n4 Jul 14:29:54 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 14:30:16 - [nodemon] restarting due to changes...\n4 Jul 14:30:16 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 14:30:30 - [nodemon] restarting due to changes...\n4 Jul 14:30:30 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 14:30:53 - [nodemon] restarting due to changes...\n4 Jul 14:30:53 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 14:30:57 - [nodemon] restarting due to changes...\n4 Jul 14:30:57 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \na user connected \nIha2\n[ { user: 'Iha2', color: '#B86F42' } ]\nmessage: [object Object]\n4 Jul 14:39:39 - [nodemon] restarting due to changes...\n4 Jul 14:39:39 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 14:40:04 - [nodemon] restarting due to changes...\n4 Jul 14:40:04 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 14:41:04 - [nodemon] restarting due to changes...\n4 Jul 14:41:05 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n4 Jul 14:46:42 - [nodemon] restarting due to changes...\n4 Jul 14:46:42 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 14:46:47 - [nodemon] restarting due to changes...\n4 Jul 14:46:47 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \na user connected \nAda\nuser disconnected\na user connected \nAda\nuser disconnected\na user connected \nAda\nuser disconnected\na user connected \nAda\nuser disconnected\na user connected \nVictor\nuser disconnected\na user connected \nIha2\nuser disconnected\na user connected \nAda\nuser disconnected\na user connected \nMonm\nuser disconnected\na user connected \nDad\n4 Jul 14:51:35 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\nuser disconnected\na user connected \nAda\na user connected \nuser disconnected\na user connected \nVictor\nmessage: [object Object]\nmessage: [object Object]\nmessage: [object Object]\nmessage: [object Object]\nuser disconnected\na user connected \nVictor\n4 Jul 15:02:40 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 15:13:45 - [nodemon] restarting due to changes...\n4 Jul 15:13:45 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 15:15:40 - [nodemon] restarting due to changes...\n4 Jul 15:15:40 - [nodemon] restarting due to changes...\n4 Jul 15:15:40 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 15:22:17 - [nodemon] restarting due to changes...\n4 Jul 15:22:17 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 15:22:21 - [nodemon] restarting due to changes...\n4 Jul 15:22:21 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 15:24:29 - [nodemon] restarting due to changes...\n4 Jul 15:24:29 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 15:24:42 - [nodemon] restarting due to changes...\n4 Jul 15:24:42 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 15:29:23 - [nodemon] restarting due to changes...\n4 Jul 15:29:23 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 15:29:36 - [nodemon] restarting due to changes...\n4 Jul 15:29:36 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 15:30:06 - [nodemon] restarting due to changes...\n4 Jul 15:30:06 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\n4 Jul 15:31:19 - [nodemon] restarting due to changes...\n4 Jul 15:31:19 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nAdaUdo\n4 Jul 15:32:40 - [nodemon] restarting due to changes...\n4 Jul 15:32:40 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \n4 Jul 16:10:38 - [nodemon] restarting due to changes...\n4 Jul 16:10:38 - [nodemon] restarting due to changes...\n4 Jul 16:10:38 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 16:10:58 - [nodemon] restarting due to changes...\n4 Jul 16:10:58 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 16:11:00 - [nodemon] restarting due to changes...\n4 Jul 16:11:00 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\nmessage: [object Object]\n4 Jul 16:12:07 - [nodemon] restarting due to changes...\n4 Jul 16:12:07 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \na user connected \nAda\n4 Jul 16:13:18 - [nodemon] restarting due to changes...\n4 Jul 16:13:18 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 16:14:12 - [nodemon] restarting due to changes...\n4 Jul 16:14:12 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 16:14:18 - [nodemon] restarting due to changes...\n4 Jul 16:14:18 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n4 Jul 16:16:15 - [nodemon] restarting due to changes...\n4 Jul 16:16:15 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n4 Jul 16:16:47 - [nodemon] restarting due to changes...\n4 Jul 16:16:47 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 16:25:17 - [nodemon] restarting due to changes...\n4 Jul 16:25:17 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nVictor\n4 Jul 16:26:04 - [nodemon] restarting due to changes...\n4 Jul 16:26:04 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 16:26:08 - [nodemon] restarting due to changes...\n4 Jul 16:26:08 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nada\n4 Jul 16:27:03 - [nodemon] restarting due to changes...\n4 Jul 16:27:03 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 16:27:10 - [nodemon] restarting due to changes...\n4 Jul 16:27:10 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\nmessage: [object Object]\n4 Jul 16:34:46 - [nodemon] restarting due to changes...\n4 Jul 16:34:46 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\n4 Jul 16:35:21 - [nodemon] restarting due to changes...\n4 Jul 16:35:21 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 16:35:46 - [nodemon] restarting due to changes...\n4 Jul 16:35:46 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nAda\n4 Jul 16:37:04 - [nodemon] restarting due to changes...\n4 Jul 16:37:04 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 16:37:19 - [nodemon] restarting due to changes...\n4 Jul 16:37:19 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 16:37:36 - [nodemon] restarting due to changes...\n4 Jul 16:37:36 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\n4 Jul 16:38:05 - [nodemon] restarting due to changes...\n4 Jul 16:38:05 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 16:38:43 - [nodemon] restarting due to changes...\n4 Jul 16:38:43 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 16:39:31 - [nodemon] restarting due to changes...\n4 Jul 16:39:31 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 16:39:50 - [nodemon] restarting due to changes...\n4 Jul 16:39:50 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \n4 Jul 16:40:23 - [nodemon] restarting due to changes...\n4 Jul 16:40:23 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nAda\n4 Jul 16:41:05 - [nodemon] restarting due to changes...\n4 Jul 16:41:05 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\n4 Jul 16:41:52 - [nodemon] restarting due to changes...\n4 Jul 16:41:52 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \na user connected \nAda\n4 Jul 17:08:43 - [nodemon] restarting due to changes...\n4 Jul 17:08:43 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nada\n4 Jul 17:09:49 - [nodemon] restarting due to changes...\n4 Jul 17:09:49 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 17:09:55 - [nodemon] restarting due to changes...\n4 Jul 17:09:55 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nada\nmessage: [object Object]\n4 Jul 17:10:55 - [nodemon] restarting due to changes...\n4 Jul 17:10:55 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nVictor\nmessage: [object Object]\n4 Jul 17:19:50 - [nodemon] restarting due to changes...\n4 Jul 17:19:50 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 17:19:58 - [nodemon] restarting due to changes...\n4 Jul 17:19:58 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 17:20:01 - [nodemon] restarting due to changes...\n4 Jul 17:20:01 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nAda\nmessage: [object Object]\n4 Jul 17:20:33 - [nodemon] restarting due to changes...\n4 Jul 17:20:33 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nada\nmessage: [object Object]\nuser disconnected\na user connected \nVictor\n4 Jul 17:22:53 - [nodemon] restarting due to changes...\n4 Jul 17:22:53 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 17:22:57 - [nodemon] restarting due to changes...\n4 Jul 17:22:57 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nThis\n4 Jul 17:23:15 - [nodemon] restarting due to changes...\n4 Jul 17:23:15 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nTThis\nuser disconnected\na user connected \nUndefined\nmessage: [object Object]\n4 Jul 17:24:11 - [nodemon] restarting due to changes...\n4 Jul 17:24:11 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nTest\n4 Jul 17:27:21 - [nodemon] restarting due to changes...\n4 Jul 17:27:21 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \na user connected \nONe more\n4 Jul 17:27:35 - [nodemon] restarting due to changes...\n4 Jul 17:27:35 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nCare nah\nmessage: [object Object]\n4 Jul 17:28:45 - [nodemon] restarting due to changes...\n4 Jul 17:28:45 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nIOnce more\nmessage: [object Object]\n4 Jul 17:31:27 - [nodemon] restarting due to changes...\n4 Jul 17:31:27 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 17:31:35 - [nodemon] restarting due to changes...\n4 Jul 17:31:35 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 17:31:52 - [nodemon] restarting due to changes...\n4 Jul 17:31:53 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \na user connected \nrank\nmessage: [object Object]\n4 Jul 17:33:38 - [nodemon] restarting due to changes...\n4 Jul 17:33:38 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 17:48:18 - [nodemon] restarting due to changes...\n4 Jul 17:48:18 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nrank\nmessage: [object Object]\n4 Jul 17:49:12 - [nodemon] restarting due to changes...\n4 Jul 17:49:12 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \ntest\nmessage: [object Object]\n4 Jul 17:49:34 - [nodemon] restarting due to changes...\n4 Jul 17:49:34 - [nodemon] starting `node server.js`\nlistening on 8001\n4 Jul 17:49:35 - [nodemon] restarting due to changes...\n4 Jul 17:49:35 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \ntest\nmessage: [object Object]\n4 Jul 17:53:18 - [nodemon] restarting due to changes...\n4 Jul 17:53:18 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \ntest\nmessage: [object Object]\n4 Jul 17:53:49 - [nodemon] restarting due to changes...\n4 Jul 17:53:49 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \ntest\nmessage: [object Object]\n4 Jul 17:56:46 - [nodemon] restarting due to changes...\n4 Jul 17:56:46 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 17:56:58 - [nodemon] restarting due to changes...\n4 Jul 17:56:58 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \ntest\nmessage: [object Object]\nuser disconnected\na user connected \nassw\n4 Jul 17:58:22 - [nodemon] restarting due to changes...\n4 Jul 17:58:22 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \nuser disconnected\na user connected \na user connected \nano\nmessage: [object Object]\n4 Jul 17:58:43 - [nodemon] restarting due to changes...\n4 Jul 17:58:43 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \ncripe\nmessage: [object Object]\n4 Jul 17:59:15 - [nodemon] restarting due to changes...\n4 Jul 17:59:15 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nasdfadsf\nmessage: [object Object]\n4 Jul 17:59:33 - [nodemon] restarting due to changes...\n4 Jul 17:59:33 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nasdfasdf\nmessage: [object Object]\n4 Jul 17:59:58 - [nodemon] restarting due to changes...\n4 Jul 17:59:58 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nasdfasdf\nmessage: [object Object]\n4 Jul 18:00:31 - [nodemon] restarting due to changes...\n4 Jul 18:00:31 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 18:00:37 - [nodemon] restarting due to changes...\n4 Jul 18:00:37 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nasdasdf\nmessage: [object Object]\n4 Jul 18:01:02 - [nodemon] restarting due to changes...\n4 Jul 18:01:02 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 18:01:09 - [nodemon] restarting due to changes...\n4 Jul 18:01:09 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \n4 Jul 18:02:36 - [nodemon] restarting due to changes...\n4 Jul 18:02:37 - [nodemon] starting `node server.js`\nlistening on 8001\na user connected \na user connected \nuser disconnected\na user connected \nertyuio\nmessage: [object Object]\nuser disconnected\na user connected \nuser disconnected\na user connected \nHide away\nmessage: [object Object]\n",
+			"settings":
+			{
+				"buffer_size": 68776,
+				"line_ending": "Unix",
+				"name": "*REPL* [shell]",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Haskell/Haskell.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User 2/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Haskell/Haskell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User 2/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/User 2/Chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 323.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"REMO",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"origa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)\\"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/iha2/Sites/nodechat",
+		"/Users/iha2/Sites/nodechat/app",
+		"/Users/iha2/Sites/nodechat/config",
+		"/Users/iha2/Sites/nodechat/node_modules"
+	],
+	"file_history":
+	[
+		"/Users/iha2/Sites/nodechat/config/local.js",
+		"/Users/iha2/Sites/nodechat/app/routes.js",
+		"/Users/iha2/Sites/nodechat/package.json",
+		"/Users/iha2/Sites/nodechat/models/routes.js",
+		"/Users/iha2/Sites/nodechat/bower.json",
+		"/Users/iha2/Sites/nodechat/.gitignore",
+		"/Users/iha2/Sites/nodechat/server.js",
+		"/Users/iha2/Sites/nodechat/public/assets/css/app.css",
+		"/Users/iha2/Sites/nodechat/public/assets/css/app.css.map",
+		"/Users/iha2/Sites/nodechat/public/libs/angular-socket-io/mock/socket-io.js",
+		"/Users/iha2/Sites/nodechat/public/assets/js/services.js",
+		"/Users/iha2/Sites/nodechat/public_1/views/index.html",
+		"/Users/iha2/Sites/nodechat/old_chat/js/client.js",
+		"/Users/iha2/Projects/Interview Questions/practise.py",
+		"/Users/iha2/Projects/Interview Questions/practise.cpp",
+		"/Users/iha2/Projects/Interview Questions/python.py",
+		"/Users/iha2/Projects/Interview Questions/javascript.js",
+		"/Users/iha2/Sites/nodechat/old_chat/views/index.html",
+		"/Users/iha2/Sites/nodechat/old_chat/css/style.css",
+		"/Users/iha2/Sites/nodechat/public/assets/js/angular.js",
+		"/Users/iha2/Sites/nodechat/public/assets/js/routes.js",
+		"/Users/iha2/Sites/startbootstrap-creative-1.0.1/css/bootstrap.css",
+		"/Users/iha2/Sites/startbootstrap-creative-1.0.1/img/portfolio/1.jpg",
+		"/Users/iha2/Sites/nodechat/public/views/index.html",
+		"/Users/iha2/Sites/nodechat/.bowerrc",
+		"/Users/iha2/Sites/nodechat/public/css/style.css",
+		"/Users/iha2/Sites/nodechat/public/js/client.js",
+		"/Users/iha2/Sites/nodechat/public/index.html",
+		"/Users/iha2/Sites/nodechat/serve.rjs",
+		"/Users/iha2/Sites/nodechat/views/home.jade",
+		"/Users/iha2/Sites/nodechat/public/script.js",
+		"/Users/iha2/Projects/Project-Euler/files/nine/test.hs",
+		"/Users/iha2/Projects/Project-Euler/files/nine.hs",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/Users/iha2/Projects/Iha2Excercise/markup.rb",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/iha2/Projects/Project-Euler/files/five.hs",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/User/C++.sublime-settings",
+		"/Users/iha2/Projects/Project-Euler/files/three.hs",
+		"/Users/iha2/Projects/Project-Euler/files/seven",
+		"/Users/iha2/Projects/Project-Euler/files/seven.hs",
+		"/Users/iha2/Projects/Project-Euler/files/one.hs",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/LaTeX.sublime-build.OLD",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/Default (OSX).sublime-keymap",
+		"/Users/iha2/Dropbox/Job Application Co-op/Resume_Latex/Resume.tex",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/README.markdown",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/iha2/Projects/Project-Euler/clean",
+		"/Users/iha2/Projects/Project Euler/one.hs",
+		"/Users/iha2/Projects/Project Euler/three.hs",
+		"/Users/iha2/Projects/Project Euler/five.hs",
+		"/Users/iha2/Projects/Project Euler/seven.hs",
+		"/Users/iha2/Projects/Project Euler/fifty-one.hs",
+		"/Users/iha2/Projects/Project Euler/primes.hs",
+		"/Users/iha2/Projects/Project Euler/algorithms.hs",
+		"/Users/iha2/Projects/Project Euler/Problem-51.hs",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/Haskell/quicksort.hs",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/Haskell/algotest.hs",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/iha2/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/Haskell/insertionsort.hs",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/C++/quicksort.cpp",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/C++/experiment.cpp",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/C++/insertionsort.cpp",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/C++/shared.cc",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/Python/insertionsort.py",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/Python/algotest.py",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/C++/shared.h",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/Haskell/experiment.hs",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/C++/Makefile",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/C++/Insertionsort.cpp",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/C++/swap.cpp",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/Insertionsort.cpp",
+		"/Users/iha2/Projects/HomeCapstone/Capstone/iPhone/iOSMyShuttle/MyShuttle/AppDelegate.h",
+		"/Users/iha2/Projects/HomeCapstone/Capstone/iPhone/HSRadar/HSRadar/AppDelegate.swift",
+		"/Users/iha2/Sites/iheatuwogu/app/routes.js",
+		"/Users/iha2/Sites/iheatuwogu/public/views/experience.html",
+		"/Users/iha2/Sites/iheatuwogu/package.json",
+		"/Users/iha2/Sites/iheatuwogu/public/libs/angular/package.json",
+		"/Users/iha2/Sites/iheatuwogu/public/css/animations.css",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/heapsort.py",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/quicksort.cc",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/algotest.py",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/insertionsort.hs",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/quicksort.hs",
+		"/Users/iha2/Dropbox/Mcmaster Courses/4th Yr 2nd Sem/COMP SCI 4ZO3/Implementations/Protoyping/heapsort.hs",
+		"/Users/iha2/Sites/ihatuwogu1/coffeescripts/nav.js",
+		"/Users/iha2/Sites/ihatuwogu1/css/main.less"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this.userdata",
+			"()\n",
+			"messages",
+			"users",
+			"save",
+			"ave",
+			"Regina George",
+			"\" ",
+			"style=\"visibility: hidden\"",
+			"messages",
+			"Messages",
+			"Messagelist",
+			"messagelist",
+			"li",
+			"This is the total",
+			"value",
+			"printer",
+			"result_data",
+			"result",
+			"print",
+			"value",
+			"()\n",
+			"children",
+			"to_be_calculated",
+			"char",
+			"value",
+			"characters[value]",
+			".value",
+			"value",
+			"expression[0]",
+			"expression[:1]",
+			"self",
+			"self.__str__",
+			"__str__",
+			"values",
+			"maxArea",
+			"maximumRectArea",
+			"input_2",
+			"getAreasOfSizeK",
+			"getMaxOfSize",
+			"input",
+			"alue",
+			"level_list",
+			"levels",
+			"&(root->left)",
+			"traverse",
+			"val1",
+			"print",
+			"ar_list",
+			"line",
+			"rl",
+			"true",
+			"false",
+			"missing_value",
+			"input",
+			"form",
+			"wow",
+			"color",
+			"express",
+			"server",
+			"Server",
+			"server",
+			"pseudo",
+			"enter_list",
+			"a",
+			"]",
+			" ",
+			"pathagoryan_triple",
+			"triple_test",
+			"tree_level",
+			"flip_list",
+			"people",
+			" # for i in categories.values\n        #     puts i.class\n        #     raise ArgumentError, \"argument contains non Numeric type\" unless i.kind_of? Float\n        # end",
+			"flatrate_markup",
+			"base",
+			"new_base + ",
+			"getExtr",
+			"'",
+			"puts",
+			"worker_mark",
+			"from_base_markup",
+			"test_markup",
+			"x",
+			"pop",
+			"plus_one_end",
+			"c",
+			"a",
+			"checkprime",
+			"prime_by_root_test",
+			"b",
+			"a",
+			"(fromIntegral base :: Double)",
+			"fromIntegral",
+			"toInteger ",
+			"Integer",
+			"checkdiv",
+			"prime_value",
+			"prime",
+			"isprime",
+			"Int",
+			"checkdiv",
+			"a",
+			"if",
+			"all_non_dups",
+			"a",
+			"mid_place_prop",
+			"to_test_list",
+			"tip_checker",
+			"|",
+			"`tip_checker`",
+			"p",
+			"a",
+			"spaced_reorder ",
+			"all_non_dups",
+			"testing",
+			"test",
+			"all_values",
+			"gen_all_values",
+			"reorder_all_dups",
+			"a",
+			"spaced_reorder",
+			"csn",
+			"nums_length",
+			"numbers",
+			"Int",
+			"a",
+			"most_and_least",
+			"possible_least_equal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/assets/js/client.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1273,
+								1273
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 415.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								660
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/sockets.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								896,
+								896
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 401.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2351,
+								2351
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 68776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64055,
+								64055
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "/Users/iha2/Sites/nodechat",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "shell",
+							"repl_id": "53184ef9d9cc40bbbaa1df97f8937c31",
+							"repl_restart_args":
+							{
+								"cmd":
+								{
+									"linux":
+									[
+										"bash",
+										"-i"
+									],
+									"osx":
+									[
+										"bash",
+										"-i"
+									],
+									"windows":
+									[
+										"cmd.exe"
+									]
+								},
+								"cmd_postfix": "\n",
+								"cwd": "$file_path",
+								"encoding":
+								{
+									"linux": "utf-8",
+									"osx": "utf-8",
+									"windows": "$win_cmd_encoding"
+								},
+								"env":
+								{
+								},
+								"external_id": "shell",
+								"suppress_echo": true,
+								"syntax": "Packages/Text/Plain text.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 40321.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				1,
+				0,
+				2,
+				2
+			],
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.490692696763,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.670135755114,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.3":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.4":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nodechat.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"*REPL* [ruby]"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 120.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

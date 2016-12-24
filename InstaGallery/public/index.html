@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html ng-app='insta-gallery'>
+<head>
+    <title>InstaGallery</title>
+    <link href='libs/bootstrap/dist/css/bootstrap.min.css' rel='stylesheet' type="text/css">
+    <link href='assets/css/app.css' rel='stylesheet' type="text/css">
+</head>
+<body>
+    <h1 id="header">InstaGallery</h1>
+
+    <!-- USER ACCES PERMISSION GRANTING -->
+    <div id="login" ng-controller="loginController as login">
+        <section>
+            <button ng-click='login.authenticate()'>LOGIN</button>
+        </section>
+    </div>
+   
+    <div id="searchbox" ng-controller='searchController as search'>
+        
+        <!-- USER INPUT HANDLING-->
+        <div id = "results">
+            <section id="search">
+                 <form>
+                    <div id="formdata">
+                       <input class="form-control" id="searchbar" ng-model="search.input" type="search" placeholder="enter a search tag">
+                         <button class="btn btn-danger" ng-click="search.getImagesInfo(search.input)">Enter</button>
+                     </div>
+                 </form>
+            </section>
+
+             <section id="tag_results">
+                <ul>
+                    <li ng-repeat="tag in search.tags.data"><b style="color: red">#</b>{{tag.name}}</li>
+                </ul>
+            </section>
+        </div>
+
+         <!-- DISPLAYING IMAGES -->
+        
+        <div id="display">
+            <ul>
+                <li ng-repeat="image in search.image_urls track by $index" ><img class="img-rounded" ng-src="{{image}}" alt="recent instagram image"></li>
+            </ul>
+        </div>
+    </div>
+
+
+    <script src='libs/jquery/dist/jquery.min.js'></script>
+    <script src='libs/bootstrap/dist/js/bootstrap.min.js'></script>
+    <script src='libs/angular/angular.min.js'></script>
+    <script src='assets/js/search.ctrl.js'></script>
+    <script src='assets/js/login.ctrl.js'></script>
+    <script src='assets/js/tagData.fact.js'></script>
+    <script src='assets/js/app.js'></script>
+</body>
+</html>

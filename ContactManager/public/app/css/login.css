@@ -1,0 +1,150 @@
+h1 {
+  margin: 10px;
+  padding: 30px 0px;
+  width: 300px;
+  font-family: "Impact", Charcoal, sans-serif;
+}
+.tooltip {
+  display: none;
+}
+#AddContact .submit {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+}
+#ContactManager {
+  margin: 10px;
+  width: 300px;
+  height: 400px;
+}
+#ContactManager .search {
+  width: 100%;
+}
+#ContactManager .cntct-user {
+  width: 100%;
+  font-size: 30px;
+  padding: 25px;
+  margin: 0px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#ContactManager input[type=number]::-webkit-inner-spin-button,
+#ContactManager input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+#ContactManager #submit {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  width: 49%;
+}
+#ContactManager #sign-up {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  width: 49%;
+}
+#ContactManager .error {
+  margin: 1px;
+  color: red;
+}
+#ContactManager .button-container {
+  width: 100%;
+}
+#ContactManager .button-container #sign-up-submit {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+#ContactManager .button-container #sign-up-login {
+  margin-left: 30%;
+  margin-right: 27%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+#ContactManager #Contacts nav {
+  height: 60px;
+}
+#ContactManager #Contacts nav .cntct-user {
+  width: 100%;
+  margin: 19px 0px;
+}
+#ContactManager #Contacts nav .cntnt-add-contact {
+  padding: 0px 15px;
+  font-size: 27px;
+  position: relative;
+  top: -11px;
+  font-size: 20px;
+  width: 20%;
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#ContactManager #Contacts .cntct-contacts {
+  margin: 5px 0px;
+  overflow-y: auto;
+}
+#ContactManager #Contacts .cntct-contacts .display h4 {
+  color: #479DD7;
+  background: black;
+  -o-transition: color 0.2s ease-out, background 1s ease-in;
+  -ms-transition: color 0.2s ease-out, background 1s ease-in;
+  -moz-transition: color 0.2s ease-out, background 1s ease-in;
+  -webkit-transition: color 0.2s ease-out, background 1s ease-in;
+  /* ...and now override with proper CSS property */
+  transition: color 0.2s ease-out, background 1s ease-in;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  border-radius: 5px;
+  margin: 0px;
+}
+#ContactManager #Contacts .cntct-contacts .display h4:hover {
+  color: black;
+  background: white;
+}
+#ContactManager #Contacts .cntct-contacts ul {
+  margin-bottom: 10px;
+}
+#ContactManager #Contacts .cntct-contacts ul .cntct-type {
+  margin: 0px;
+  padding: 3px;
+}
+#ContactManager #Contacts .cntct-contacts ul .cntct-data label {
+  width: 100%;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+#ContactManager #Contacts .cntct-contacts ul .cntct-data label .input-group {
+  margin: auto;
+}
+#ContactManager #Contacts .cntct-contacts ul .cntct-data .input-group {
+  width: 100%;
+}
+#ContactManager #Contacts .cntct-contacts ul .cntct-categories {
+  height: 30px;
+}
+#ContactManager #Contacts .cntct-contacts .cntct-events {
+  height: 60px;
+  width: 100%;
+}
+#ContactManager #Contacts .cntct-contacts .cntct-events button {
+  padding: 3px 0px;
+}
+#ContactManager #Contacts .cntct-contacts .remove-contacts-confirm {
+  margin: 5px 0px;
+}
+#ContactManager #Contacts .cntct-contacts .remove-contacts-confirm p {
+  font-weight: bold;
+  font-size: 12.5px;
+  padding: 5px 0px;
+}
+#ContactManager #Contacts .contct-categories {
+  margin: 5px 0px;
+  overflow-y: auto;
+}
+#ContactManager #Contacts .contct-categories .contct-type {
+  font-size: 15px;
+  padding: 0px;
+  margin: 0px;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Instagram Tag Gallery",
+  "version": "0.0.1",
+  "description": "provides instagram ",
+  "dependencies": {
+    "bowser": "x.x.x",
+    "bootstrap": "x.x.x",
+    "angular": "x.x.x"
+  }
+}
